@@ -1,0 +1,135 @@
+.pozicija img{
+    height: 300px;
+    width: 150px;
+}
+.polje{
+    border: 3px solid black;
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    height: 50px;
+    position: absolute;
+    bottom: 30px;
+    background-color: white;
+}
+.boja{
+    color: black;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+body{
+    background-color: beige;
+}
+
+ .card img{
+     width: 450px;
+    height: 200px;
+    margin: auto;
+    
+    }
+    
+    
+    .slikaur{
+        width:500px;
+        height: 300px;
+        float: left;
+        margin-left: 65px;
+        margin-right: 10px;
+    }
+    .tekst{
+        text-align: justify;
+        margin-right: 200px;
+        font-weight: bold;
+    }
+    
+    .card121 ,.card122, .card123{
+        width: 300px;
+        height: 200px;
+        margin: auto;
+
+        
+    }
+  
+    .polje{
+        position: relative;
+        
+        
+    }
+    .foter img{
+        position: relative;
+        display: inline-block;
+    }
+    
+
+    
+    .footer-dark {
+    padding:50px 0;
+    color:#f0f9ff;
+    background-color:#282d32;
+  }
+  
+  .footer-dark h3 {
+    margin-top:0;
+    margin-bottom:12px;
+    font-weight:bold;
+    font-size:16px;
+  }
+  
+  .foter img{
+      height: 40px;
+      width: 40px;
+
+  }
+  
+  .druga{
+      font-weight: bold;
+      text-align: center;
+
+  }
+  .druga1{
+    font-weight: bold;
+    text-align: center;
+    
+}
+    
+    .polje a{
+        text-decoration: none;
+        margin-top: 10px;
+    }
+    .slikatekst{
+        text-align: center;
+    }
+    .teq{
+        display: inline-block;
+    }
+    .vijesti {
+        margin: auto;
+        text-align: center;
+        
+        
+    }
+    .card10{
+        display: inline-block;
+        
+    }
+    .card11{
+        display: inline-block;
+        
+    }
+    .celoku{
+        margin: auto;
+        display: inline-block;
+        margin-left: 375px;
+    }
+    .cmf{
+        text-align: center;
+        
+    }
+    .cmf a{
+        text-decoration: none;
+    }
+
+
+    
